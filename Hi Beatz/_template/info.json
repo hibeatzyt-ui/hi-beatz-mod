@@ -1,0 +1,9 @@
+{
+  "title": "Song Title",
+  "artist": "Artist Name",
+  "difficulty": "Standard",
+  "bpm": 120,
+  "audio": "audio.mp3",
+  "artwork": "artwork.jpg",
+  "chart": "chart.chart"
+}
